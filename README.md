@@ -1,2 +1,2 @@
 # AngularJS
-Airline Schedule Portal
+<b>Airline Schedule Portal</b>
